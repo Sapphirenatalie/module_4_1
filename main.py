@@ -5,6 +5,3 @@ div_fake(69, 3)
 div_fake(3, 0)
 div_true(49, 7)
 div_true(15, 0)
-
-
-
